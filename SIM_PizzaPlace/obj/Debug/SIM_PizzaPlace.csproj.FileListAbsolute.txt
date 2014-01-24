@@ -1,0 +1,9 @@
+C:\Users\obeezy\Desktop\SIM_PizzaPlace\SIM_PizzaPlace\bin\Debug\SIM_PizzaPlace.exe.config
+C:\Users\obeezy\Desktop\SIM_PizzaPlace\SIM_PizzaPlace\bin\Debug\SIM_PizzaPlace.exe
+C:\Users\obeezy\Desktop\SIM_PizzaPlace\SIM_PizzaPlace\bin\Debug\SIM_PizzaPlace.pdb
+C:\Users\obeezy\Desktop\SIM_PizzaPlace\SIM_PizzaPlace\obj\Debug\SIM_PizzaPlace.csprojResolveAssemblyReference.cache
+C:\Users\obeezy\Desktop\SIM_PizzaPlace\SIM_PizzaPlace\obj\Debug\SIM_PizzaPlace.Properties.Resources.resources
+C:\Users\obeezy\Desktop\SIM_PizzaPlace\SIM_PizzaPlace\obj\Debug\SIM_PizzaPlace.csproj.GenerateResource.Cache
+C:\Users\obeezy\Desktop\SIM_PizzaPlace\SIM_PizzaPlace\obj\Debug\SIM_PizzaPlace.exe
+C:\Users\obeezy\Desktop\SIM_PizzaPlace\SIM_PizzaPlace\obj\Debug\SIM_PizzaPlace.pdb
+C:\Users\obeezy\Desktop\SIM_PizzaPlace\SIM_PizzaPlace\obj\Debug\SIM_PizzaPlace.PizzaOrderingForm.resources
